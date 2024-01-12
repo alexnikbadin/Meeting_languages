@@ -20,7 +20,20 @@ while (i < arr.Length)
         Console.Write(arr[i]);
     }
     i = i + 1;
+}*/
+//найти максимальный элемень
+int[] arr = { 2, 3, 54, 89, 134, 12, 4, 79, 43, 98 };
+int i = 0;
+int max = arr[0];
+for (int i = 0; i < arr.Length; i++)
+{
+    if (arr[i] > max)
+    {
+        max = arr[i];
+    }
 }
+Console.WriteLine(max);
+
 
 
 

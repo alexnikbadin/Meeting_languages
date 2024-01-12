@@ -1,0 +1,15 @@
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/bin/Debug/net8.0/Task_2
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/bin/Debug/net8.0/Task_2.deps.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/bin/Debug/net8.0/Task_2.runtimeconfig.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/bin/Debug/net8.0/Task_2.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/bin/Debug/net8.0/Task_2.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.AssemblyInfoInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.AssemblyInfo.cs
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.csproj.CoreCompileInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.sourcelink.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/refint/Task_2.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/Task_2.genruntimeconfig.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/Lection_2/Task_2/obj/Debug/net8.0/ref/Task_2.dll
