@@ -1,0 +1,15 @@
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.AssemblyInfoInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.AssemblyInfo.cs
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.csproj.CoreCompileInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.sourcelink.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/bin/Debug/net8.0/L3_Functions
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/bin/Debug/net8.0/L3_Functions.deps.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/bin/Debug/net8.0/L3_Functions.runtimeconfig.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/bin/Debug/net8.0/L3_Functions.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/bin/Debug/net8.0/L3_Functions.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/refint/L3_Functions.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/L3_Functions.genruntimeconfig.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L3_Functions/obj/Debug/net8.0/ref/L3_Functions.dll
