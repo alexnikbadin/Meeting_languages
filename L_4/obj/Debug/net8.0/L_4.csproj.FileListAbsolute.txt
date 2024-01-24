@@ -1,0 +1,15 @@
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.AssemblyInfoInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.AssemblyInfo.cs
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.csproj.CoreCompileInputs.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.sourcelink.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/bin/Debug/net8.0/L_4
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/bin/Debug/net8.0/L_4.deps.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/bin/Debug/net8.0/L_4.runtimeconfig.json
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/bin/Debug/net8.0/L_4.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/bin/Debug/net8.0/L_4.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/refint/L_4.dll
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.pdb
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/L_4.genruntimeconfig.cache
+/Users/aleksandrbadin/Desktop/Meeting languages/Meet C#/L_4/obj/Debug/net8.0/ref/L_4.dll
